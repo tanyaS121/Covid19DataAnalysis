@@ -13,5 +13,7 @@ Visualizing data related to a country
 
 ![Visualize data](https://user-images.githubusercontent.com/68801236/104552027-fce8e200-565d-11eb-92c5-b220093f786a.jpg)
 
-First Deriavtive of the curve
+First Derivative of the curve
+
+![derivative of the curve](https://user-images.githubusercontent.com/68801236/104552847-91077900-565f-11eb-94d9-b4a67ed2c77c.jpg)
 
