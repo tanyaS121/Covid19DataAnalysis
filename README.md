@@ -17,3 +17,5 @@ First Derivative of the curve
 
 ![derivative of the curve](https://user-images.githubusercontent.com/68801236/104552847-91077900-565f-11eb-94d9-b4a67ed2c77c.jpg)
 
+Plottings of GDP, social support, healthy life expentancy and freedom of life choices against Maximum Infection Rates.
+
