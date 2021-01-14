@@ -19,3 +19,10 @@ First Derivative of the curve
 
 Plottings of GDP, social support, healthy life expentancy and freedom of life choices against Maximum Infection Rates.
 
+![gdp vs max infect](https://user-images.githubusercontent.com/68801236/104553448-a92bc800-5660-11eb-9efb-d10bb61a54a9.jpg)
+
+![social support vs max infect](https://user-images.githubusercontent.com/68801236/104553454-ac26b880-5660-11eb-91ed-d56110918a4c.jpg)
+
+![healthy life vs max infect](https://user-images.githubusercontent.com/68801236/104553455-ae891280-5660-11eb-8a97-4ad92fcace73.jpg)
+
+![Freedom vs max infect](https://user-images.githubusercontent.com/68801236/104553460-b0eb6c80-5660-11eb-8cb8-fb0df24f3cae.jpg)
