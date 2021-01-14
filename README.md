@@ -12,3 +12,6 @@ Importing the datasets
 Visualizing data related to a country
 
 ![Visualize data](https://user-images.githubusercontent.com/68801236/104552027-fce8e200-565d-11eb-92c5-b220093f786a.jpg)
+
+First Deriavtive of the curve
+
